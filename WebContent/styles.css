@@ -1,0 +1,19 @@
+.pink{
+	background-color: pink;
+	margin:-2px;
+	padding:-2px;
+}
+.blue{
+	background-color: blue;
+	margin:-2px;
+	padding:-2px;
+}
+.box{
+	height: 50px;
+	width: 50px;
+	display:inline-block;
+	
+}
+body{
+	text-align: center;
+}
